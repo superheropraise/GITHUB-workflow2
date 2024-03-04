@@ -8,8 +8,9 @@ main {
   justify-content: center;
   height: 100vh;
 }
+
 p {
   text-decoration: underline;
-  letter-spacing: 20px;
   align-items: center;
+  letter-spacing: 15px;
 }
